@@ -153,7 +153,7 @@ var supportedModes = {
     PartiQL:     ["partiql|pql"],
     Pascal:      ["pas|p"],
     Perl:        ["pl|pm"],
-    pgSQL:       ["pgsql"],
+    pgSQL:       ["pgsql", "pgsql14", "pgsql15"],
     PHP_Laravel_blade: ["blade.php"],
     PHP:         ["php|inc|phtml|shtml|php3|php4|php5|phps|phpt|aw|ctp|module"],
     Pig:         ["pig"],
