@@ -1,6 +1,6 @@
 var oop = require("../lib/oop");
 var TextMode = require("../mode/text").Mode;
-var PgsqlHighlightRules = require("./pgsql16_highlight_rules").Pgsql15HighlightRules;
+var PgsqlHighlightRules = require("./pgsql16_highlight_rules").Pgsql16HighlightRules;
 
 var Mode = function() {
     this.HighlightRules = PgsqlHighlightRules;

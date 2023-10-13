@@ -234,4 +234,4 @@ var PgsqlHighlightRules = function () {
 
 oop.inherits(PgsqlHighlightRules, TextHighlightRules);
 
-exports.Pgsql15HighlightRules = PgsqlHighlightRules;
+exports.Pgsql16HighlightRules = PgsqlHighlightRules;
